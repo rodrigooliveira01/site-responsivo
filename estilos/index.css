@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+*{margin: 0px;
+padding: 0px;}
+
+header{border: 4px solid #2dff03;
+height: 100px;
+text-align: right;}
+
+main{border: 4px solid greenyellow;
+height: 400px;
+width: 400px;
+margin-top: 50px;}
