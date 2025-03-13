@@ -8,6 +8,11 @@ height: 100px;
 text-align: right;}
 
 main{border: 4px solid greenyellow;
-height: 400px;
-width: 400px;
+height: 600px;
 margin-top: 50px;}
+
+.bloco1{height: 50px;
+width: 50px;
+border: 1px solid black;}
+
+.bloco2{}
